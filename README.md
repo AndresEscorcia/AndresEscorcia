@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://www.facebook.com/escorciapalacio15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/escorciapalacio15/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/im_andresco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Instagram.svg" alt="https://www.instagram.com/im_andresco/" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/444163784295186433" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="https://discordapp.com/users/444163784295186433" height="30" width="60" /></a>
+<a href="https://discordapp.com/users/444163784295186433" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="https://discordapp.com/users/444163784295186433" height="50" width="60" /></a>
 </p>
 
 <h3 align="center">Lenguajes Y Herramientas:</h3>
