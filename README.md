@@ -13,9 +13,9 @@
 
 <h3 align="center">Conecta Conmigo:</h3>
 <p align="center">
-<a href="https://fb.com/https://www.facebook.com/escorciapalacio15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/escorciapalacio15/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/im_andresco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Instagram.svg" alt="https://www.instagram.com/im_andresco/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/444163784295186433" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="https://discordapp.com/users/444163784295186433" height="30" width="40" /></a>
+<a href="www.facebook.com/escorciapalacio15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/escorciapalacio15/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/im_andresco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Instagram.svg" alt="https://www.instagram.com/im_andresco/" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/444163784295186433" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Discord.svg" alt="https://discordapp.com/users/444163784295186433" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguajes Y Herramientas:</h3>
